@@ -1,2 +1,1 @@
-# softEng1
-Software Engineering 1 Lab
+# softEng1 - Student Name: SEBASTIAN, Maureen-Mae
